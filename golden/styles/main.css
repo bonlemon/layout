@@ -1,3 +1,6 @@
+/* COMMON */
+
+/* reset for div */
 body {
     font-family: Arial, sans-serif;
 
@@ -43,7 +46,9 @@ div {
     margin-top: 5px;
 }
 
-/* Heder block */
+
+
+/* HEADER SECTION */
 header {
     background: url(../img/first-bg.jpg) no-repeat center top / cover;
     padding-bottom: 160px;
@@ -152,7 +157,7 @@ h1 {
 
 
 
-/* portfolio section */
+/* PORTFOLIO SECTION */
 
 #portfolio {
     background: #f7f7f7;
@@ -176,7 +181,7 @@ h1 {
 }
 
 
-/* about us section */
+/* ABOUT US SECTION */
 
 .about {
     margin-top: 40px;
