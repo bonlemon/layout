@@ -4,3 +4,8 @@ body {
     font-size: 1.26vmax;
     line-height: 1.9vmax;
 }
+
+a, a:hover, button, button:hover .animev{
+    transition: all 200ms linear;
+    cursor: pointer;
+}
